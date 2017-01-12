@@ -114,7 +114,7 @@
     [self setMdButtonType:MDButtonTypeFloatingActionRotation];
     break;
   default:
-    [self setMdButtonType:MDButtonTypeRaised];
+    [self setMdButtonType:MDButtonTypeFloatingActionRotation];
   }
 }
 
